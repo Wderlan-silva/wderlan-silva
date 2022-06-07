@@ -1,7 +1,7 @@
 ### Olá humano! eu sou Wderlãn
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Angular
+- 🔭 Hoje trabalho como FullStack na MV sistemas
+- 🌱 Estudando Java e Angular
 
 <div align="center">
   <a href="https://github.com/wderlansilva">
