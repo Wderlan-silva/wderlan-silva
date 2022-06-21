@@ -1,4 +1,4 @@
-### Olá humano! eu sou Wderlãn
+### Olá humano,  meu nome é Wderlãn.
 
 - 🔭 Hoje trabalho como FullStack na MV sistemas
 - 🌱 Estudando Java e Angular
